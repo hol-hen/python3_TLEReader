@@ -8,6 +8,7 @@ A simple program that interprets satellite TLE .txt files and creates visualisat
 * [Setup](#setup)
 * [Import TLE files](#import-tle-files)
 * [Exports](#exports)
+* [Author's Comments](#author's-comments)
 
 ## General Info
 The program converts the standard TLE file format https://en.wikipedia.org/wiki/Two-line_element_set to a more readable and informative format.\
@@ -35,4 +36,5 @@ Theses will save as a .png file, and .txt file respectivley and will be saved in
 For an input file called sat.txt, the exports will be saved as sat.png and sat_orbit.txt\
 (Note: if the directory was not changed in the program [setup](#setup), the export files will be saved in the default file directory.)
 
-
+## Author's Comments
+Dear all, this is my first project I have uploaded on github :). I created this in project in 2021, and have decided to try github out so that is why it only going up now. I am a beginner-novice programmer, so I would greatly appreciate any feedback, be that regarding the program or my use of github. Enjoy! - Holhen
