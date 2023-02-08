@@ -10,8 +10,8 @@ A simple program that interprets satellite TLE .txt files and creates visualisat
 * [Exports](#exports)
 
 ## General Info
-The program converts the standard TLE file format https://en.wikipedia.org/wiki/Two-line_element_set 
-To the much more readable and informative format, that displays additional info including orbit type, altitude, speed, orbital period, orbits per day.
+The program converts the standard TLE file format https://en.wikipedia.org/wiki/Two-line_element_set to a more readable and informative format.
+Includes additional info including orbit type, altitude, speed, orbital period, orbits per day, using orbital calculations.
 It can also create a visualisation of the orbit.
 
 ![Example Picture](./images/example_2.png)
