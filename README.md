@@ -37,4 +37,4 @@ For an input file called sat.txt, the exports will be saved as sat.png and sat_o
 (Note: if the directory was not changed in the program [setup](#setup), the export files will be saved in the default file directory.)
 
 ## Author's Comments
-Dear all, this is my first project I have uploaded on github :). I created this in project in 2021, and have decided to try github out so that is why it only going up now. I am a beginner-novice programmer, so I would greatly appreciate any feedback, be that regarding the program or my use of github. Enjoy! - Holhen
+Dear all, this is my first project I have uploaded on github :). I created this in project in 2021, and have decided to try github out so that is why it only going up now (2023). I am a beginner-novice programmer, so I would greatly appreciate any feedback, be that regarding the program or my use of github. Enjoy! - Holhen
