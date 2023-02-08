@@ -27,7 +27,7 @@ b) Change directory to the folder containing both TLEreader.py. Type "python3 TL
 
 ## Import TLE Files
 Takes input txt file of a satellite TLE (can be downloaded from Celestrak https://celestrak.org/NORAD/elements/).\
-Two sample TLE files are provided (Aerocube 12A.txt and Intelsat 5.txt)
+Two sample TLE files are provided (Aerocube 12A.txt and Intelsat 5.txt), these can be found in the "TLE import files provided" folder
 
 ## Exports
 A visualisation and data can be downloaded as part of the program.\
