@@ -35,7 +35,7 @@ Two sample TLE files are provided (Aerocube 12A.txt and Intelsat 5.txt), these c
 
 ## Exports
 A visualisation and data can be downloaded as part of the program.\
-Theses will save as a .png file, and .txt file respectivley and will be saved in the same location as the other input file.\
+These will save as a .png file, and .txt file respectivley and will be saved in the same location as the other input file.\
 For an input file called sat.txt, the exports will be saved as sat.png and sat_orbit.txt\
 (Note: if the directory was not changed in the program [setup](#setup), the export files will be saved in the default file directory.)
 
