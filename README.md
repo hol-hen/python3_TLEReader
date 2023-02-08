@@ -22,6 +22,7 @@ It can also create a visualisation of the orbit.
 
 ## Technologies
 Project is created with python 3.
+Imports the libraries: math, numpy, matplotlib, datetime, calendar, os
 
 ## Setup
 To run this project, download the TLEreader.py file. Make sure TLE .txt file in on same path level as the TLEraeder.py file. Open the command line shell.\
