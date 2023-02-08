@@ -25,7 +25,7 @@ Project is created with python 3.
 Imports the libraries: math, numpy, matplotlib, datetime, calendar, os
 
 ## Setup
-To run this project, download the TLEreader.py file. Make sure TLE .txt file in on same path level as the TLEraeder.py file. Open the command line shell.\
+To run this project, download the TLEreader.py file. Make sure TLE .txt file in on same path level as the TLEreader.py file. Open the command line shell.\
 Either:\
 a) type pyhton3 followed by the file path of the TLEreader.py file \
 b) Change directory to the folder containing both TLEreader.py. Type "python3 TLEreader.py", the program will begin.
